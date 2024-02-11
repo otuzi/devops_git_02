@@ -57,11 +57,24 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 исправить её и выложить исправленный код в продакшн. Мы никуда не будем выкладывать код, но пометим некоторые коммиты тегами и создадим от них ветки. 
 
 1. Создайте легковестный тег `v0.0` на HEAD-коммите и запуште его во все три добавленных на предыдущем этапе `upstream`.
-1. Аналогично создайте аннотированный тег `v0.1`.
-1. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги. 
+2. Аналогично создайте аннотированный тег `v0.1`.
+
+   <img width="723" alt="Screenshot 2024-02-11 at 10 10 02" src="https://github.com/otuzi/devops_git_02/assets/61628386/d1e563d0-31da-43a3-93ff-d4685e812008">
+
+   <img width="671" alt="Screenshot 2024-02-11 at 10 10 12" src="https://github.com/otuzi/devops_git_02/assets/61628386/81e9336c-026b-4db1-bc56-6cafb9eeb78f">
+
+   <img width="986" alt="Screenshot 2024-02-11 at 10 10 55" src="https://github.com/otuzi/devops_git_02/assets/61628386/493c1d4d-4556-4402-8429-ee0b3650e818">
+
+   <img width="590" alt="Screenshot 2024-02-11 at 10 13 59" src="https://github.com/otuzi/devops_git_02/assets/61628386/7f52ffd9-6f05-481c-9ffd-e523a7d3b489">
+
+
+3. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги. 
     * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
-    * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
+
+<img width="1339" alt="Screenshot 2024-02-11 at 10 14 15" src="https://github.com/otuzi/devops_git_02/assets/61628386/294fe99a-3d3d-428d-8177-146c0012c43c">
+
+<img width="1387" alt="Screenshot 2024-02-11 at 10 14 47" src="https://github.com/otuzi/devops_git_02/assets/61628386/de62894d-ec9a-4b4c-808c-2eaf288aa666">
 
 ## Задание 3. Ветки 
 
