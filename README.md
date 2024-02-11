@@ -81,14 +81,27 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 Давайте посмотрим, как будет выглядеть история коммитов при создании веток. 
 
 1. Переключитесь обратно на ветку `main`, которая должна быть связана с веткой `main` репозитория на `github`.
-1. Посмотрите лог коммитов и найдите хеш коммита с названием `Prepare to delete and move`, который был создан в пределах предыдущего домашнего задания. 
-1. Выполните `git checkout` по хешу найденного коммита. 
-1. Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`.
-1. Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.
-1. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network. 
-1. Теперь измените содержание файла `README.md`, добавив новую строчку.
-1. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
+2. Посмотрите лог коммитов и найдите хеш коммита с названием `Prepare to delete and move`, который был создан в пределах предыдущего домашнего задания. 
+3. Выполните `git checkout` по хешу найденного коммита. 
+4. Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`.
+5. Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.
+6. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network.
+
+   <img width="943" alt="Screenshot 2024-02-11 at 10 40 59" src="https://github.com/otuzi/devops_git_02/assets/61628386/f3868338-e932-4d59-8ff5-1d8ae951ec0f">
+   
+   <img width="1393" alt="Screenshot 2024-02-11 at 10 41 28" src="https://github.com/otuzi/devops_git_02/assets/61628386/72f7e978-1f18-43c4-9fe9-449487648748">
+
+
+8. Теперь измените содержание файла `README.md`, добавив новую строчку.
+9. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
 и как изменится вывод команды `git log`.
+
+<img width="1368" alt="Screenshot 2024-02-11 at 10 44 23" src="https://github.com/otuzi/devops_git_02/assets/61628386/2d6f79df-db07-4bcc-ae3b-e10607ef3c72">
+
+<img width="703" alt="Screenshot 2024-02-11 at 10 44 45" src="https://github.com/otuzi/devops_git_02/assets/61628386/8949c1b4-3c9c-439b-a465-57eaad79d809">
+
+
+
 
 ## Задание 4. Упрощаем себе жизнь
 
